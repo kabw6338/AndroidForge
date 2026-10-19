@@ -38,7 +38,6 @@ You will need a GitHub Personal Access Token (classic PAT with `repo` + `workflo
 To eliminate repeated installation of JDK / Android SDK / Gradle / Flutter on every APK build, this repo ships a **prebuilt Docker image** that contains the entire Android build environment.
 
 ### Image contents
-
 | Layer | Version(s) |
 |---|---|
 | Base | `ubuntu:22.04` |
